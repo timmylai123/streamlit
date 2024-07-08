@@ -5,7 +5,7 @@ import os
 st.set_page_config(page_title="文件下载服务")
 
 # 定义文件目录
-FILE_DIR = r"C:\Users\laiyu\Desktop\streamlit\files"
+FILE_DIR = r"files"
 
 st.title("文件下载服务")
 
